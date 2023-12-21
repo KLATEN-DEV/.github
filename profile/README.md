@@ -1,13 +1,14 @@
 ## Repositori publik
 
-Halaman ini merupakan Dokumentasi Repositori Aplikasi Klaten, yang dibuat oleh diskominfo klaten untuk masyarakat klaten.
+Halaman ini merupakan Dokumentasi Repositori Aplikasi Klaten, yang dibuat oleh diskominfo klaten untuk masyarakat klaten. 
+repositori yang terdaftar pada halaman ini murni dibuat oleh para programmer diskominfo.
 
 ### Kita Sebagai Programmer
 
-Kami sebagai programmer dan juga bagian masyarakat klaten turut memajukan klaten melalui digitalisasi.
+Kami sebagai programmer dan juga bagian dari masyarakat klaten turut memajukan klaten melalui digitalisasi.
 yang untuk saat ini tim programmer diskominfo yang menangani aplikasi yang ada diklaten terdiri dari 5 orang
 
 ### Komunitas
 
-Kami sangat senang kepada komunitas yang memberikan saran dan kritik aplikasi agar memudahkan bagi masyarakat klaten.
+Kami sangat senang kepada komunitas yang memberikan saran dan kritik atas aplikasi agar semakin mudah digunakan oleh masyarakat klaten.
 
