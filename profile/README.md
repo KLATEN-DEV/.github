@@ -6,7 +6,7 @@ repositori yang terdaftar pada halaman ini murni dibuat oleh para programmer dis
 ### Kita Sebagai Programmer
 
 Kami sebagai programmer dan juga bagian dari masyarakat klaten turut memajukan klaten melalui digitalisasi.
-yang untuk saat ini tim programmer diskominfo yang menangani aplikasi yang ada diklaten terdiri dari 5 orang
+yang untuk saat ini tim diskominfo yang menangani aplikasi yang ada diklaten terdiri dari 5 orang programmer dan 2 orang sebagai pengelola server
 
 ### Komunitas
 
