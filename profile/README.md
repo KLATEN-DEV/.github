@@ -12,3 +12,4 @@ yang untuk saat ini tim diskominfo yang menangani aplikasi yang ada diklaten ter
 
 Kami sangat senang kepada komunitas yang memberikan saran dan kritik atas aplikasi agar semakin mudah digunakan oleh masyarakat klaten.
 
+![Diskominfo](https://github.com/KLATEN-DEV/media-assets/blob/main/logo/diskominfo.png)
